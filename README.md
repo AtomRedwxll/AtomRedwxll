@@ -10,7 +10,7 @@ Rejoignez notre communauté sur Discord : [Tools4Discord](https://discord.gg/too
 
 ![Atom Tools Banner](https://cdn.discordapp.com/avatars/1110621699285729420/49903c58a1d02fe1066626f0dcde8e39.png?size=1024)
 
-**Bienvenue sur Tools4Discord !** Notre serveur est un espace où les utilisateurs de Discord peuvent trouver une variété d'outils et de ressources pour améliorer leur expérience sur la plateforme.
+**Bienvenue sur Atom Tools !** Notre serveur est un espace où les utilisateurs de Discord peuvent trouver une variété d'outils et de ressources pour améliorer leur expérience sur la plateforme.
 
 ### Règles
 
