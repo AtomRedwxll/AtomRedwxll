@@ -4,7 +4,7 @@ Salut, je suis Arracheur2kilote, un développeur passionné de Python. Bienvenue
 
 ## Serveur Discord - Atom Tools
 
-Rejoignez notre communauté sur Discord : [Tools4Discord](https://discord.gg/toolsfr)
+Rejoignez notre communauté sur Discord : [Atom Tools](https://discord.gg/toolsfr)
 
 ### À propos du serveur
 
@@ -18,6 +18,6 @@ Avant de commencer à explorer, veuillez consulter nos règles dans le canal dé
 
 ### Rejoignez-nous
 
-Êtes-vous prêt à améliorer votre expérience Discord ? Rejoignez-nous dès aujourd'hui et découvrez tout ce que Tools4Discord a à offrir !
+Êtes-vous prêt à améliorer votre expérience Discord ? Rejoignez-nous dès aujourd'hui et découvrez tout ce que Atom Tools a à offrir !
 
-[Rejoindre Tools4Discord](https://discord.gg/toolsfr)
+[Rejoindre Atom Tools](https://discord.gg/toolsfr)
